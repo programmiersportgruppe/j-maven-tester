@@ -14,7 +14,7 @@ gem install jlauncher
 Then all you need to do is to run this:
 
 ~~~
-j org.programmiersportgruppe:j-maven-tester:VERSION --name World
+j org.programmiersportgruppe:j-maven-tester:1 --name World
 ~~~
 
 On the first launch it will download and cache the dependencies.
